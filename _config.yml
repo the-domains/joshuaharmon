@@ -1,0 +1,28 @@
+name: Joshua Harmon
+favicon: null
+layout_spectrum: 0.4084680499508977
+typography_spectrum: 0.06177273252978921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7928512294311076
+  lightness: 0.7045945909339935
+  saturation: 0.19127879943698645
+  rhythmicContrast: 0.2534622570965439
+purpose: []
