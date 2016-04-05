@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Prepping Scallops
-datePublished: '2016-03-12T04:34:08.241Z'
-dateModified: '2016-03-12T04:31:05.913Z'
+datePublished: '2016-04-05T21:31:05.730Z'
+dateModified: '2016-04-05T21:30:50.502Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-prepping-scallops.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: prepping-scallops/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/621aed8a1c54e029d4e96bc0c34c8c1ceb1a3c2e.jpg)
