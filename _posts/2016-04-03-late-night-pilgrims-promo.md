@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/161336156'
 inLanguage: null
-starred: true
 keywords: []
-description: 'This is "Late Night Pilgrims Promo" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-04-03T04:24:53.041Z'
-dateModified: '2016-04-03T04:24:45.024Z'
+description: 'This is "Late Night Pilgrims"'
+datePublished: '2016-05-07T02:47:53.279Z'
+dateModified: '2016-05-07T02:47:42.978Z'
 author:
   - name: Kevin Austin Dugger
     url: 'http://vimeo.com/user9663235'
@@ -43,15 +42,17 @@ app_links:
     id: com.vimeo.android.videoapp
 title: Late Night Pilgrims Promo
 sourcePath: _posts/2016-04-03-late-night-pilgrims-promo.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F161336156&amp;url=https%3A%2F%2Fvimeo.com%2F161336156&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F563550629_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7802ec63-8f67-4580-8108-4c8834963178.jpg)
