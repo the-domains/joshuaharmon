@@ -4,21 +4,21 @@
         <description><![CDATA[Joshua Harmon]]></description>
         <link>https://thegrid.ai/joshuaharmon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 02:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 02:48:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joshuaharmon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Late Night Pilgrims Promo]]></title>
+            <description><![CDATA[<article><h1>Late Night Pilgrims Promo</h1><p>This is "Late Night Pilgrims"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdbc8a651da815549d83720292cedc8035cd822.jpg"></article>]]></description>
+            <link>https://vimeo.com/161336156</link>
+            <guid isPermaLink="false">61b92b0b-4f39-45fa-9068-2b31b85c0acc</guid>
+            <pubDate>Sat, 07 May 2016 02:47:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Josh & Food]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3dab2f-30ed-466c-be3f-5484fd5d221a.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/joshuaharmon/lamb-shank-polenta/index.html</link>
             <guid isPermaLink="false">c945a623-d2df-46c6-93a5-3d9d0c211ffc</guid>
             <pubDate>Sat, 07 May 2016 02:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Late Night Pilgrims Promo]]></title>
-            <description><![CDATA[<article><h1>Late Night Pilgrims Promo</h1><p>This is "Late Night Pilgrims"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdbc8a651da815549d83720292cedc8035cd822.jpg"></article>]]></description>
-            <link>https://vimeo.com/161336156</link>
-            <guid isPermaLink="false">61b92b0b-4f39-45fa-9068-2b31b85c0acc</guid>
-            <pubDate>Sun, 03 Apr 2016 04:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
