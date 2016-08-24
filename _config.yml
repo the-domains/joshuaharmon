@@ -1,19 +1,4 @@
-name: Joshua Harmon
-favicon: null
-layout_spectrum: 0.1043
 typography_spectrum: 0.1728
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#151515'
@@ -25,4 +10,23 @@ color:
   lightness: 0.0625
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1043
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Joshua Harmon
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Josh & Food
+    id: c945a623-d2df-46c6-93a5-3d9d0c211ffc
+    type: content
+favicon: null
 purpose: []
