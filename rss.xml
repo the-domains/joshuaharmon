@@ -4,21 +4,21 @@
         <description><![CDATA[Joshua Harmon]]></description>
         <link>https://thegrid.ai/joshuaharmon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 22:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 22:52:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joshuaharmon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Late Night Pilgrims]]></title>
+            <description><![CDATA[<article><h1>Late Night Pilgrims</h1><p>Here it is! Our first promo for Late Night Pilgrims! It's break down of some of our favorite moments from our first season.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f899dcaf9c73c3e88990c0f3dc8a2c8e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F589512060_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/181061721</link>
+            <guid isPermaLink="false">1d0d8019-877c-4a32-ab1d-afdd801470d3</guid>
+            <pubDate>Thu, 01 Sep 2016 22:52:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Late Night Pilgrims Promo]]></title>
             <description><![CDATA[<article><h1>Late Night Pilgrims Promo</h1><p>This is "Late Night Pilgrims"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdbc8a651da815549d83720292cedc8035cd822.jpg"></article>]]></description>
             <link>https://vimeo.com/161336156</link>
             <guid isPermaLink="false">61b92b0b-4f39-45fa-9068-2b31b85c0acc</guid>
             <pubDate>Sat, 07 May 2016 02:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Late Night Pilgrims]]></title>
-            <description><![CDATA[<article><h1>Late Night Pilgrims</h1><p>Here it is! Our first promo for Late Night Pilgrims! It's break down of some of our favorite moments from our first season.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f899dcaf9c73c3e88990c0f3dc8a2c8e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F589512060_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/181061721</link>
-            <guid isPermaLink="false">1d0d8019-877c-4a32-ab1d-afdd801470d3</guid>
-            <pubDate>Thu, 01 Sep 2016 22:19:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
