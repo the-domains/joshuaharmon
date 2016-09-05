@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-09-01T22:52:30.210Z'
+datePublished: '2016-09-02T05:24:23.242Z'
+sourcePath: _posts/2016-09-01-late-night-pilgrims.md
 isBasedOnUrl: 'https://vimeo.com/181061721'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://vimeo.com/user9663235'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T22:52:29.756Z'
+dateModified: '2016-09-02T05:24:22.806Z'
 title: Late Night Pilgrims
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/181061721'
@@ -43,9 +44,8 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: >-
-  Here it is! Our first promo for Late Night Pilgrims! It's break down of some
+  Here it is! Our first promo for Late Night Pilgrims! It's a break down of some
   of our favorite moments from our first season.
-sourcePath: _posts/2016-09-01-late-night-pilgrims.md
 starred: true
 inFeed: true
 hasPage: false
